@@ -92,8 +92,8 @@ mv Comedians.In.Cars.Getting.Coffee.S0*  Comedians\ in\ cars\ getting\ coffee > 
 mv Bojack\.* Bojack\ Horseman/ > /dev/null 2>&1
 mv battlebots.2015.* Battlebots/ > /dev/null 2>&1
 mv Last.Week.Tonight.With.John.Oliver.* John\ Oliver/ > /dev/null 2>&1
-mv Documentary.Now.S02E0* Documentary\ Now/ > /dev/null 2>&1
-mv Better.Things.S01E0* Better\ Things/ > /dev/null 2>&1
+mv Documentary.Now.S02E* Documentary\ Now/ > /dev/null 2>&1
+mv Better.Things.S01E* Better\ Things/ > /dev/null 2>&1
 mv lucifer.* Lucifer/ > /dev/null 2>&1
 mv your.pretty.face.is.going.to.hell.s* Your\ Pretty\ Face\ Is\ Going\ To\ Hell/ > /dev/null 2>&1
 mv American.Dad.S* American\ Dad/ > /dev/null 2>&1
@@ -108,7 +108,8 @@ mv *he.*ast.*an.*n.*arth.* The\ Last\ Man\ On\ Earth > /dev/null 2>&1
 mv *nside.*omedy.* Inside\ Comedy > /dev/null 2>&1
 mv *he.*reat.*ndoors.* The\ Great\ Indoors > /dev/null 2>&1
 mv *owerless.* Powerless > /dev/null 2>&1
-
+mv *asy.* Easy > /dev/null 2>&1
+mv *itless.* Witless > /dev/null 2>&1
 
 cd ../
 chmod -R a+rwx movies/ tv/ 

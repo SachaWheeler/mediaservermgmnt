@@ -77,7 +77,7 @@ done
 
 # move things into their directories
 mv Silicon.Valley.S0* Silicon\ Valley > /dev/null 2>&1
-mv Rick*and*Morty*S* Rick\ and\ Morty > /dev/null 2>&1
+mv *ick.*nd.*orty.* Rick\ and\ Morty > /dev/null 2>&1
 mv Preacher.S* Preacher > /dev/null 2>&1
 mv *aron.* Maron > /dev/null 2>&1
 mv *amily.*uy.* Family\ Guy > /dev/null 2>&1
@@ -94,10 +94,7 @@ mv battlebots.2015.* Battlebots/ > /dev/null 2>&1
 mv Last.Week.Tonight.With.John.Oliver.* John\ Oliver/ > /dev/null 2>&1
 mv Documentary.Now.S02E0* Documentary\ Now/ > /dev/null 2>&1
 mv Better.Things.S01E0* Better\ Things/ > /dev/null 2>&1
-mv The.Goldbergs.* The\ Goldbergs/ > /dev/null 2>&1
 mv lucifer.* Lucifer/ > /dev/null 2>&1
-mv Travel.Man.48.Hours.* Travel\ Man/ > /dev/null 2>&1
-mv Gadget.Man.Serires.* Gadget\ Man/ > /dev/null 2>&1
 mv your.pretty.face.is.going.to.hell.s* Your\ Pretty\ Face\ Is\ Going\ To\ Hell/ > /dev/null 2>&1
 mv American.Dad.S* American\ Dad/ > /dev/null 2>&1
 mv *tan.*gainst.*evil.S* Stan\ against\ Evil > /dev/null 2>&1
@@ -107,8 +104,7 @@ mv *aking.*istory* Making\ History\ \(2017\) > /dev/null 2>&1
 mv *eview.*ith.*orrest.*acNeil* Review\ with\ Forrest\ MacNeil >  /dev/null 2>&1
 mv Legion.* Legion > /dev/null 2>&1
 mv Modern.Family.* Modern\ Family > /dev/null 2>&1
-mv The.Goldbergs.* The\ Goldbergs > /dev/null 2>&1
-mv The.Last.Man.On.Earth.* The\ Last\ Man\ On\ Earth > /dev/null 2>&1
+mv *he.*ast.*an.*n.*arth.* The\ Last\ Man\ On\ Earth > /dev/null 2>&1
 mv *nside.*omedy.* Inside\ Comedy > /dev/null 2>&1
 mv *he.*reat.*ndoors.* The\ Great\ Indoors > /dev/null 2>&1
 mv *owerless.* Powerless > /dev/null 2>&1

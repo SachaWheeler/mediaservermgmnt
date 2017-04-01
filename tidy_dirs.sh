@@ -110,6 +110,9 @@ mv *he.*reat.*ndoors.* The\ Great\ Indoors > /dev/null 2>&1
 mv *owerless.* Powerless > /dev/null 2>&1
 mv *asy.* Easy > /dev/null 2>&1
 mv *itless.* Witless > /dev/null 2>&1
+mv *earch.*arty.* Search\ Party > /dev/null 2>&1
+mv *nimals.* Animals > /dev/null 2>&1
+mv VICE.S0* Vice > /dev/null 2>&1
 
 cd ../
 chmod -R a+rwx movies/ tv/ 

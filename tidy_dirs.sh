@@ -83,7 +83,7 @@ mv *aron.* Maron > /dev/null 2>&1
 mv *amily.*uy.* Family\ Guy > /dev/null 2>&1
 mv *road.*ity.* Broad\ City > /dev/null 2>&1
 mv Bobs.Burgers.S* Bobs\ Burgers > /dev/null 2>&1
-mv Better.Call.Saul.S* Better\ Call\ Saul > /dev/null 2>&1
+# mv Better.Call.Saul.S* Better\ Call\ Saul > /dev/null 2>&1
 mv *askets.* Baskets > /dev/null 2>&1
 mv Archer.2009* Archer > /dev/null 2>&1
 mv angie.tribeca.* Angie\ Tribeca > /dev/null 2>&1
@@ -113,6 +113,14 @@ mv *itless.* Witless > /dev/null 2>&1
 mv *earch.*arty.* Search\ Party > /dev/null 2>&1
 mv *nimals.* Animals > /dev/null 2>&1
 mv VICE.S0* Vice > /dev/null 2>&1
+mv *rashing.US.* Crashing\ US > /dev/null 2>&1
+mv *nto.*he.*adlands.* Into\ The\ Badlands > /dev/null 2>&1
+mv *ougar.*own.* Cougar\ Town > /dev/null 2>&1
+mv *atastrophe.2015.* Catastrophe > /dev/null 2>&1
+mv [iI][zZ]ombie.* iZombie > /dev/null 2>&1
+mv trial.and.error.* Trial\ and\ Error > /dev/null 2>&1
+mv samurai.jack.* Samurai\ Jack > /dev/null 2>&1
+mv Brooklyn.Nine-Nine.S0* Brooklyn\ Nine-Nine > /dev/null 2>&1
 
 cd ../
 chmod -R a+rwx movies/ tv/ 

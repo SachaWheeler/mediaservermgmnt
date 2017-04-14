@@ -121,6 +121,8 @@ mv [iI][zZ]ombie.* iZombie > /dev/null 2>&1
 mv trial.and.error.* Trial\ and\ Error > /dev/null 2>&1
 mv samurai.jack.* Samurai\ Jack > /dev/null 2>&1
 mv Brooklyn.Nine-Nine.S0* Brooklyn\ Nine-Nine > /dev/null 2>&1
+mv Trial.and.Error.* Trial\ and\ Error > /dev/null 2>&1
+mv Harlots.* Harlots > /dev/null 2>&1
 
 cd ../
 chmod -R a+rwx movies/ tv/ 

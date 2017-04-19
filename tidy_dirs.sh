@@ -86,7 +86,7 @@ mv Bobs.Burgers.S* Bobs\ Burgers > /dev/null 2>&1
 # mv Better.Call.Saul.S* Better\ Call\ Saul > /dev/null 2>&1
 mv *askets.* Baskets > /dev/null 2>&1
 mv Archer.2009* Archer > /dev/null 2>&1
-mv angie.tribeca.* Angie\ Tribeca > /dev/null 2>&1
+mv *ngie.*ribeca.* Angie\ Tribeca > /dev/null 2>&1
 mv wrecked.* Wrecked > /dev/null 2>&1
 mv Comedians.In.Cars.Getting.Coffee.S0*  Comedians\ in\ cars\ getting\ coffee > /dev/null 2>&1
 mv Bojack\.* Bojack\ Horseman/ > /dev/null 2>&1
@@ -95,7 +95,7 @@ mv Last.Week.Tonight.With.John.Oliver.* John\ Oliver/ > /dev/null 2>&1
 mv Documentary.Now.S02E* Documentary\ Now/ > /dev/null 2>&1
 mv Better.Things.S01E* Better\ Things/ > /dev/null 2>&1
 mv lucifer.* Lucifer/ > /dev/null 2>&1
-mv your.pretty.face.is.going.to.hell.s* Your\ Pretty\ Face\ Is\ Going\ To\ Hell/ > /dev/null 2>&1
+mv *our.*retty.*ace.*s.*oing.*o.*ell.* Your\ Pretty\ Face\ Is\ Going\ To\ Hell/ > /dev/null 2>&1
 mv American.Dad.S* American\ Dad/ > /dev/null 2>&1
 mv *tan.*gainst.*evil.S* Stan\ against\ Evil > /dev/null 2>&1
 mv South.Park.S* South\ Park > /dev/null 2>&1
@@ -119,10 +119,11 @@ mv *ougar.*own.* Cougar\ Town > /dev/null 2>&1
 mv *atastrophe.2015.* Catastrophe > /dev/null 2>&1
 mv [iI][zZ]ombie.* iZombie > /dev/null 2>&1
 mv trial.and.error.* Trial\ and\ Error > /dev/null 2>&1
-mv samurai.jack.* Samurai\ Jack > /dev/null 2>&1
+mv *amurai.*ack.* Samurai\ Jack > /dev/null 2>&1
 mv Brooklyn.Nine-Nine.S0* Brooklyn\ Nine-Nine > /dev/null 2>&1
 mv Trial.and.Error.* Trial\ and\ Error > /dev/null 2>&1
 mv Harlots.* Harlots > /dev/null 2>&1
+mv *etter.*all.*aul.* Better\ Call\ Saul > /dev/null 2>&1
 
 cd ../
 chmod -R a+rwx movies/ tv/ 

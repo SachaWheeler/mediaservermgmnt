@@ -124,6 +124,7 @@ mv Brooklyn.Nine-Nine.S0* Brooklyn\ Nine-Nine > /dev/null 2>&1
 mv Trial.and.Error.* Trial\ and\ Error > /dev/null 2>&1
 mv Harlots.* Harlots > /dev/null 2>&1
 mv *etter.*all.*aul.* Better\ Call\ Saul > /dev/null 2>&1
+mv guardians.of.the.galaxy.* Guardians\ of\ the\ Galaxy > /dev/null 2>&1
 
 cd ../
 chmod -R a+rwx movies/ tv/ 

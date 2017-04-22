@@ -125,6 +125,7 @@ mv Trial.and.Error.* Trial\ and\ Error > /dev/null 2>&1
 mv Harlots.* Harlots > /dev/null 2>&1
 mv *etter.*all.*aul.* Better\ Call\ Saul > /dev/null 2>&1
 mv [gG]uardians.of.the.[gG]alaxy.* Guardians\ of\ the\ Galaxy > /dev/null 2>&1
+mv Mystery.Science.Theater.3000.The.Return.S01* Mystery\ Science\ Theater\ 3000 > /dev/null 2>&1
 
 cd ../
 chmod -R a+rwx movies/ tv/ 
